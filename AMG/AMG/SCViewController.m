@@ -7,6 +7,7 @@
 //
 
 #import "SCViewController.h"
+#import "AMGWebEngine.h"
 
 @interface SCViewController ()
 
